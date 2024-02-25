@@ -1,0 +1,15 @@
+body{
+    background-color: darkblue;
+    text-align: center
+    
+}
+
+.flex { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+div {
+    color: orangered;
+  }
